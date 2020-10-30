@@ -151,5 +151,7 @@ dmypy.json
 .prof
 
 #virtual environment
+/media
+/static
 venv
 # End of https://www.toptal.com/developers/gitignore/api/django
